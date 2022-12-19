@@ -7,6 +7,7 @@ int luaspermukaankubus(int s){
     return luaskubus;
 }
 
+//Fungsi rumus kubus
 int volumekubus(int s){
     int volumekubus;
     volumekubus = s*s*s;
@@ -19,6 +20,7 @@ float luaspermukaantabung(float r, float t){
     return luaspermukaantabung;
 }
 
+//Fungsi rumus tabung
 float volumetabung(float r,float t){
     float volumetabung =3.14*r*r*t;
     return volumetabung;
